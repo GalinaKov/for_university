@@ -40,20 +40,6 @@ function factorial(array){
 }
 console.log(factorial(arr));
 
-/*public static int getFactorial(int f) {
-  if (f <= 1) {
-     return 1;
-  }
-  else {
-     return f * getFactorial(f - 1);
-  }
-}*/
-
-/*console.log(arr.slice(1, arr.length));
-/*Напишите функцию factorial, которая будет принимать в качестве параметра массив и возвращать факториал элементов массива.
-В функции запрещено создавать переменные, использовать циклы и условные выражения. Важно, чтобы функция корректно
-работала с любыми массивами такого типа.
- */
 
 console.log("\nУпражнение №2.2")
 function callBackJoin(previousValue, item, index, array) {
